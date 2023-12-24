@@ -10,5 +10,5 @@
 ## Hardware Requirements
 | Storage | RAM     |
 |---------|---------|
-| 5.0GB   | 8.0GB   |
+| 5.0GB   | 5.0GB   |
 
