@@ -12,3 +12,7 @@
 |---------|---------|
 | 5.0GB   | 5.0GB   |
 
+**NOTICE**
+**ALL FUTURE UPDATES WILL GO TO A NEW REPO**
+[My Eggs](https://github.com/ImKringle/My-Eggs)
+
